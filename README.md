@@ -2,11 +2,11 @@
 Assignment submission from a machine learning competition with a professor.
 
 Class averages were compared with the professor's averages(average 86.382):
-0 86.33999999999999
-1 86.6
-2 86.52
-3 86.39
-4 86.06
+86.33999999999999
+86.6
+86.52
+86.39
+86.06
 
 We got a higher average so we got extra credit.
 
